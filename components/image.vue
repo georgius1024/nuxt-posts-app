@@ -1,5 +1,5 @@
 <template>
   <div>
-    <img src="http://via.placeholder.com/640x360"/>
+    <img src="https://picsum.photos/640/480" width="640"/>
   </div>
 </template>
